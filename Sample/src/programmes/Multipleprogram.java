@@ -11,7 +11,7 @@ public class Multipleprogram {
 		
 
 
-		System.out.println(a*b*c));
+		System.out.println(a*b*c);
 	
 
 		
