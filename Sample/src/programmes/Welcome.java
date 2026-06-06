@@ -4,7 +4,7 @@ public class Welcome {
 	
  public static void main(String[] args) {
 	 
-	 System.out.println("Github Practice");
+	 System.out.println("Welcome to jenkins");
 	
 }
 
