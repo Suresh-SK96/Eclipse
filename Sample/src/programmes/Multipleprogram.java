@@ -6,7 +6,7 @@ public class Multipleprogram {
 		
 		int a=5,b=6,c=12;
 		
-		System.out.println(a*b*c);
+		System.out.println(a+b+c);
 		
 	}
 
